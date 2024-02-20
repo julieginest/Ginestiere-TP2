@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXhY+ZTZGTl7IQDatGaTWnZnUoWMnNaONTRxwn17tNvGO9+7zgbTfUkwdVqZGzkMY5G+MHeYg1Y+jT44MyU0TA==",
+  "success": true,
+  "projectFilePath": "/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/TP Animals.csproj",
+  "expectedPackageFiles": [
+    "/home/Ecole/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

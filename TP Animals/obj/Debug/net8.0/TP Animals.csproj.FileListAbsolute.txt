@@ -1,0 +1,14 @@
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/bin/Debug/net8.0/TP Animals
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/bin/Debug/net8.0/TP Animals.deps.json
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/bin/Debug/net8.0/TP Animals.runtimeconfig.json
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/bin/Debug/net8.0/TP Animals.dll
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/bin/Debug/net8.0/TP Animals.pdb
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/obj/Debug/net8.0/TP Animals.GeneratedMSBuildEditorConfig.editorconfig
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/obj/Debug/net8.0/TP Animals.AssemblyInfoInputs.cache
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/obj/Debug/net8.0/TP Animals.AssemblyInfo.cs
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/obj/Debug/net8.0/TP Animals.csproj.CoreCompileInputs.cache
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/obj/Debug/net8.0/TP Animals.dll
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/obj/Debug/net8.0/refint/TP Animals.dll
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/obj/Debug/net8.0/TP Animals.pdb
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/obj/Debug/net8.0/TP Animals.genruntimeconfig.cache
+/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/obj/Debug/net8.0/ref/TP Animals.dll
