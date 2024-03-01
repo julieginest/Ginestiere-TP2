@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/TP Animals.csproj": {}
+    "/home/Ecole/Dev/Ecole/C#/TP Noté/Ginestiere-TP2/TP Animals/TP Animals.csproj": {}
   },
   "projects": {
-    "/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/TP Animals.csproj": {
+    "/home/Ecole/Dev/Ecole/C#/TP Noté/Ginestiere-TP2/TP Animals/TP Animals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/TP Animals.csproj",
+        "projectUniqueName": "/home/Ecole/Dev/Ecole/C#/TP Noté/Ginestiere-TP2/TP Animals/TP Animals.csproj",
         "projectName": "TP Animals",
-        "projectPath": "/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/TP Animals.csproj",
+        "projectPath": "/home/Ecole/Dev/Ecole/C#/TP Noté/Ginestiere-TP2/TP Animals/TP Animals.csproj",
         "packagesPath": "/home/Ecole/.nuget/packages/",
-        "outputPath": "/home/Ecole/Dev/Ecole/C#/NN - TP/TP1/TP Animals/obj/",
+        "outputPath": "/home/Ecole/Dev/Ecole/C#/TP Noté/Ginestiere-TP2/TP Animals/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/Ecole/.nuget/NuGet/NuGet.Config"

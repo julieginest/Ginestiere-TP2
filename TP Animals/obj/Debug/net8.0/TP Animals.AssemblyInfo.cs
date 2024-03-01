@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP Animals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+336f2bb1de24a47702eb8f8b13cbd7be30895102")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP Animals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP Animals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
